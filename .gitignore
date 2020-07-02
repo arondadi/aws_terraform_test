@@ -1,4 +1,4 @@
 keys/*
 terraform.tfstate*
 .terraform
-.tfplan
+*.tfplan
